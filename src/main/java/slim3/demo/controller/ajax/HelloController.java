@@ -3,6 +3,7 @@ package slim3.demo.controller.ajax;
 import org.slim3.controller.Controller;
 import org.slim3.controller.Navigation;
 
+//test
 public class HelloController extends Controller {
 
     @Override
